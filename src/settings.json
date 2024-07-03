@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Bird tickets get 15% discount",
+        "linkText": "Get your ticket"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Our cater software tackles management pain points, delivering efficiency and cost-effectiveness, setting us apart with diverse functionalities.",
+        "title": "Revolutionize Your Catering Business with Innovative Software"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Innovative Tools for Exceptional Event Management – Make Every Occasion Perfect",
+        "title": "Transform Your Catering Business with Cutting-Edge Software"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Innovative Tools for Exceptional Event Management – Make Every Occasion Perfect",
+        "title": "Transform Your Catering Business with Cutting-Edge Software"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Innovative Tools for Exceptional Event Management – Make Every Occasion Perfect",
+        "title": "Transform Your Catering Business with Cutting-Edge Software"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Innovative Tools for Exceptional Event Management – Make Every Occasion Perfect",
+        "title": "Transform Your Catering Business with Cutting-Edge Software"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Innovative Tools for Exceptional Event Management – Make Every Occasion Perfect",
+        "title": "Transform Your Catering Business with Cutting-Edge Software"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Innovative Tools for Exceptional Event Management – Make Every Occasion Perfect",
+        "title": "Transform Your Catering Business with Cutting-Edge Software"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Transform Your Catering Business with Cutting-Edge Software",
+  "subtitle": "Innovative Tools for Exceptional Event Management – Make Every Occasion Perfect"
+}
